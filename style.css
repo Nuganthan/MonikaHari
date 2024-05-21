@@ -114,12 +114,12 @@ position: relative; */
 /* ---------------------contact-us---------------------- */
 .contact-section {
     min-height: 100vh;
-    background: url(./images/bg.jpeg) no-repeat;
+    background: url(./images/bg.png) no-repeat;
     background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
-    
+
 }
 
 .contact-info {
@@ -227,3 +227,17 @@ position: relative; */
         width: 100%;
      }
 }
+
+/* .alert-success {
+    z-index: 1;
+    background: #DAEDDA;
+    font-size: 18px;
+    padding: 20px 40px;
+    min-width: 420px;
+    right:0;
+    top: 10px;
+    border-left: 8px solid #3AD66E;
+    border-radius: 4px;
+
+
+} */
